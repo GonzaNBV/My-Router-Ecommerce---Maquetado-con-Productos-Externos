@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "titulo": "Sudadera Mulyungarie",
+    "precio": 59010,
+    "precioOriginal": 84300,
+    "imagen1": "/0-images/Sudadera/sudadera-cremallera-mulyu-1.jpg",
+    "imagen2": "/0-images/Sudadera/sudadera-cremallera-mulyu-2.jpg",
+    "imagen3": "/0-images/Sudadera/sudadera-cremallera-mulyu-3.jpg",
+    "descripcion": "Sudadera con cremallera de un cuarto, cómoda y moderna.",
+    "descuento": 70,
+    "colores": ["#979B85"],
+    "tallas": ["S", "M", "L", "XL", "XXL"]
+  },
+  {
+    "id": 2,
+    "titulo": "Camiseta Vara Polo",
+    "precio": 33600,
+    "precioOriginal": 42000,
+    "imagen1": "/0-images/Camiseta/vara-polo-1.jpg",
+    "imagen2": "/0-images/Camiseta/vara-polo-2.jpg",
+    "imagen3": "/0-images/Camiseta/vara-polo-3.jpg",
+    "descripcion": "Camiseta de algodón cómoda y casual.",
+    "descuento": 20,
+    "colores": ["#375C88"],
+    "tallas": ["S", "M", "L", "XL", "XXL"]
+  },
+  {
+    "id": 3,
+    "titulo": "Chaqueta Bomber Palmer",
+    "precio": 63700,
+    "precioOriginal": 91000,
+    "imagen1": "/0-images/Chaqueta/chaqueta-bomber-palmer-1.jpg",
+    "imagen2": "/0-images/Chaqueta/chaqueta-bomber-palmer-2.jpg",
+    "imagen3": "/0-images/Chaqueta/chaqueta-bomber-palmer-3.jpg",
+    "descripcion": "Chaqueta bomber para un look urbano.",
+    "descuento": 60,
+    "colores": ["#8D8D69", "#222222"],
+    "tallas": ["S", "M", "L", "XL", "XXL"]
+  },
+  {
+    "id": 4,
+    "titulo": "Camisa Oxford",
+    "precio": 87000,
+    "precioOriginal": 43500,
+    "imagen1": "/0-images/Camisa/camisaox-1.jpg",
+    "imagen2": "/0-images/Camisa/camisaox-2.jpg",
+    "imagen3": "/0-images/Camisa/camisaox-3.jpg",
+    "descripcion": "Camisa Oxford regular con cuello abotonado.",
+    "descuento": 50,
+    "colores": ["#33538A"],
+    "tallas": ["S", "M", "L", "XL", "XXL"]
+  },
+  {
+    "id": 5,
+    "titulo": "Chaleco Padstow",
+    "precio": 44992,
+    "precioOriginal": 74987,
+    "imagen1": "/0-images/Chaleco/chaleco-1.jpg",
+    "imagen2": "/0-images/Chaleco/chaleco-2.jpg",
+    "imagen3": "/0-images/Chaleco/chaleco-3.jpg",
+    "descripcion": "Chaleco con relleno Primaloft de Padstow.",
+    "descuento": 60,
+    "colores": ["#38382C"],
+    "tallas": ["S", "M", "L", "XL", "XXL"]
+  },
+  {
+    "id": 6,
+    "titulo": "Buck Rugby",
+    "precio": 24800,
+    "precioOriginal": 62000,
+    "imagen1": "/0-images/Rugby/rugby-1.jpg",
+    "imagen2": "/0-images/Rugby/rugby-2.jpg",
+    "imagen3": "/0-images/Rugby/rugby-3.jpg",
+    "descripcion": "Camisa de algodón cepillado con cuello clásico, bordado y aberturas laterales.",
+    "descuento": 40,
+    "colores": ["#2B2E3D"],
+    "tallas": ["S", "M", "L", "XL", "XXL"]
+  }
+]
